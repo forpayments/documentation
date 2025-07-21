@@ -1,5 +1,12 @@
 # Payments API Route Documentation
 
+# ENDPOINTS INFORMATION
+
+- development: `https://dev.api.zanupay.com/v1`
+   - Current version: `v1`
+- production: `https://prod.api.zanupay.com/v1`
+   - Current version: `v1`
+
 ## General
 
 ### `GET /<version>/healthcheck`
